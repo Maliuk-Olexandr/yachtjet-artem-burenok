@@ -1,11 +1,11 @@
 {
-  "name": "team-work-yachtjet",
+  "name": "yachtjet-artem-burenok",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-work-yachtjet/",
+    "build": "vite build --base=/yachtjet-artem-burenok/",
     "preview": "vite preview"
   },
   "devDependencies": {
